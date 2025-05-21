@@ -1,5 +1,4 @@
 # 📌 PROGRAM OPERATION!
-[operation png](https://github.com/user-attachments/assets/80d5aeb2-0147-480a-8ff1-88caeddf4a51)
-# 🖼️ Image Displayed
-![image display](https://github.com/user-attachments/assets/be470db5-5d0e-4926-9df3-80971799d4e1)
-
+[operation png](https://github.com/user-attachments/assets/04ef1299-0da0-4ac3-887b-c919fb14dc42)
+# 🖼️ Image Displayed!
+![image display](https://github.com/user-attachments/assets/913a2c69-2568-40ec-b808-8b17d72b98f6)
