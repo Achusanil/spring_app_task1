@@ -1,10 +1,19 @@
-<html>
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>Good morning</title>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-<h1>good morning</h1>
-<h2>Have a nice day</h2>
-<img src="https://images6.alphacoders.com/118/1188401.jpg" alt="image" width="400" />
+<p th:text="|Hello, ${name}!|"></p>
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vestibulum dignissim malesuada.
+</p>
+<img src="https://images6.alphacoders.com/118/1188401.jpg"
+     alt="Random Image"
+     width="500"
+     height="500"
+     style="display: block; margin-left: auto; margin-right: auto;" />
 </body>
 </html>
+
